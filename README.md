@@ -1,2 +1,2 @@
 # tugas-workshop-riansyah
-membuat website
+membuat website yang sederhana dan mudah untuk di pahami
